@@ -1,5 +1,5 @@
 # Robotics-Automation-Spring-2023
-This repository contains homework assignments and libraries I created for my Modern Robotics &amp; Automation Course.
+This repository contains homework assignments and libraries->(rotations.py and invert.py) I created for my Modern Robotics &amp; Automation Course.
 
 Topics Covered Include:
 
